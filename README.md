@@ -1,4 +1,4 @@
-# electron-boilerplate
+# electron-boilerplate [![Build Status](https://travis-ci.org/perryprog/electron-testing.svg?branch=master)](https://travis-ci.org/perryprog/electron-testing)
 
 A minimalistic boilerplate for [Electron runtime](http://electron.atom.io). Tested on Windows, macOS and Linux.  
 
