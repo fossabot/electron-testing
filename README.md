@@ -1,4 +1,5 @@
 # electron-boilerplate [![Build Status](https://travis-ci.org/perryprog/electron-testing.svg?branch=master)](https://travis-ci.org/perryprog/electron-testing)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fperryprog%2Felectron-testing.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fperryprog%2Felectron-testing?ref=badge_shield)
 
 A minimalistic boilerplate for [Electron runtime](http://electron.atom.io). Tested on Windows, macOS and Linux.  
 
@@ -100,3 +101,7 @@ Once the packaging process finished, the `dist` directory will contain your dist
 We use [electron-builder](https://github.com/electron-userland/electron-builder) to handle the packaging process. It has a lot of [customization options](https://www.electron.build/configuration/configuration), which you can declare under `"build"` key in `package.json`.
 
 You can package your app cross-platform from a single operating system, [electron-builder kind of supports this](https://www.electron.build/multi-platform-build), but there are limitations and asterisks. That's why this boilerplate doesn't do that by default.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fperryprog%2Felectron-testing.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fperryprog%2Felectron-testing?ref=badge_large)
